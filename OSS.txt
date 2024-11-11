@@ -5,6 +5,8 @@ Open Source Software List
 3. MySQL - An open-source relational database management system.
 4. PostgreSQL - A powerful, open-source object-relational database system.
 5. Mozilla Firefox - A free and open-source web browser.
+Softwares added by user1:
+------------------------------
 6. GIMP - GNU Image Manipulation Program, an open-source graphics editor.
 7. Blender - An open-source 3D creation suite.
 8. LibreOffice - A free and powerful office suite.
