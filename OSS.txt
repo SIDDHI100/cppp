@@ -11,9 +11,17 @@ Softwares added by user1:
 7. Blender - An open-source 3D creation suite.
 8. LibreOffice - A free and powerful office suite.
 9. Docker - A platform for developing, shipping, and running applications in containers.
-10. VLC Media Player - An open-source multimedia player.
+10. VLC Media Player - An open-source multimedia player used in various operating systemss.
+Softwares added by user2:
 11. Kubernetes - An open-source system for automating application deployment, scaling, and management.
 12. TensorFlow - An open-source library for machine learning.
 13. Git - A distributed version control system.
 14. Nextcloud - An open-source cloud storage solution.
 15. Inkscape - An open-source vector graphics editor.
+
+Open source software (OSS) is computer software that is available to the public under a license that grants users the right to use, study, change, and distribute the software and its source code: 
+
+    Source code: The part of the software that programmers use to control how the program behaves. 
+this all softwares are used.
+
+
