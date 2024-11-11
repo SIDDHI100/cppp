@@ -23,5 +23,10 @@ Open source software (OSS) is computer software that is available to the public 
 
     Source code: The part of the software that programmers use to control how the program behaves. 
 this all softwares are used.
+OSS is different from proprietary or closed-source software, such as Microsoft Word or Adobe Illustrator, where the creator or copyright holder sells the software to end users. 
+Some advantages of open source software include:
 
+    Faster upgrades: Programmers can usually fix and upgrade an application's source code in less time than with closed source.
+    Collaboration: Users can contribute to and find new possibilities for shared data.
+    Innovation: Open source channels drive innovation in areas like big data, blockchain technology, and cloud computing.
 
